@@ -1,2 +1,23 @@
-# 8bit-cpu-design-logisim
-PROJECTS • Currently designing a custom multi-cycle CPU in Logisim, including ALU, register file, RAM integration, instruction decoding, and hardwired control unit.
+# Custom Multi-Cycle CPU in Logisim
+
+## Overview
+This project is a custom-designed multi-cycle CPU built in Logisim.
+
+## Features
+- ALU operations
+- Register file
+- Hardwired control unit
+- RAM integration
+- Instruction decoding
+- Multi-cycle execution
+
+## Current Progress
+- ALU completed
+- Register system working
+- Control signal generation implemented
+- Program counter under development
+
+## Future Plans
+- Jump instructions
+- Improved instruction format
+- Microprogrammed control exploration
