@@ -149,5 +149,5 @@ The CPU currently supports:
 
 
 ## Author
-**Wahid**  
+**Abdul Wahid**  
 Creator of a custom hybrid CPU architecture in Logisim Evolution.
