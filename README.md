@@ -6,7 +6,7 @@ This project is a custom-designed multi-cycle CPU built in Logisim.
 ## Features
 - ALU operations
 - Register file
-- Hardwired control unit
+- Microprogrammed control unit
 - RAM integration
 - Instruction decoding
 - Multi-cycle execution
