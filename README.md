@@ -7,17 +7,18 @@ This project is a custom-designed multi-cycle CPU built in Logisim.
 - ALU operations
 - Register file
 - Microprogrammed control unit
-- RAM integration
+- Program ROM intregation
 - Instruction decoding
 - Multi-cycle execution
+- Jump instructions
 
 ## Current Progress
 - ALU completed
 - Register system working
 - Control signal generation implemented
-- Program counter under development
+- Program counter implemented
 
 ## Future Plans
-- Jump instructions
+- RAM integration
 - Improved instruction format
-- Microprogrammed control exploration
+- Pipelining
